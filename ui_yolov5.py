@@ -12,7 +12,7 @@ import cv2
 import sys
 from PyQt5.QtWidgets import *
 # from detect_qt5 import main_detect,my_lodelmodel
-from mydetect import v5detect
+from detect_qt5 import v5detect
 
 '''摄像头和视频实时检测界面'''
 class Ui_MainWindow(QWidget):
