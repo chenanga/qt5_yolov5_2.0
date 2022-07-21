@@ -3,6 +3,8 @@
 打开`ui_yolov5.py`文件，运行即可。环境配置参考yolov5官方配置（https://github.com/ultralytics/yolov5）
 
 博客地址： [Pyqt搭建YOLOV5目标检测界面](https://blog.csdn.net/weixin_42035347/article/details/119960202)
+
+
 [yolov5可视化检测界面打包为exe可执行程序](https://blog.csdn.net/weixin_42035347/article/details/119960202)
 
 
