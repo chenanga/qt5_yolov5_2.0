@@ -5,6 +5,10 @@
 博客地址： [Pyqt搭建YOLOV5目标检测界面](https://blog.csdn.net/weixin_42035347/article/details/119960202)
 
 
+由于我是用的yolov5版本是之前的版本，所以模型需要自己手动下载后，放置 /weights/下面。模型链接[https://github.com/chenanga/qt5_yolov5_2.0/releases/download/yolov5s.pt/yolov5s.pt](https://github.com/chenanga/qt5_yolov5_2.0/releases/download/yolov5s.pt/yolov5s.pt)
+
+
+
 [yolov5可视化检测界面打包为exe可执行程序](https://blog.csdn.net/weixin_42035347/article/details/119960202)
 
 
